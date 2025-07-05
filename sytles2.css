@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+    line-height: 1.6;
+}
+.container{
+    width: 90%;
+    max: width 1100px;
+    margin: 0 auto;
+}
+/* header */
+.header{
+    background-color: #111;
+    color: rgb(255, 145, 0);
+    line-height: 1rem 0;
+}
+.logo{
+    font-size: 1.8rem;
+    font-weight: bold;
+     text-align: center;
+}
+
+.navber{
+    text-align:center;
+     margin-top: 0.5rem;
+}
+.navber a{
+    color: white;
+   text-decoration: none;
+   margin: 01rem;
+   font-weight: 500;
+}
+.navber a:hover{
+    color: #4ad;
+}
