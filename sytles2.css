@@ -51,6 +51,7 @@ margin-bottom: 60px;
 .one{
     left: 0%;
     width: 50%;
+    padding: 20px;
     height: 100%;
     background-color: aqua;
 }
@@ -58,8 +59,11 @@ margin-bottom: 60px;
     right: 0%;
     width: 50%;
     height: 100%;
+    padding-left: 65px;
     background-color: aquamarine;
 }
  h1{
     text-align: center;
+    font-size: 60px;
 }
+
